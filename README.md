@@ -6,7 +6,7 @@
 3. [Installation](#installation)
 4. [Usage](#usage)
 5. [Project Structure](#project-structure)
-6. [License](#license)
+
 
 ## Overview
 
@@ -61,6 +61,3 @@ templates/
 - `requirements.txt`: Python dependencies.
 - `templates/index.html`: Frontend HTML, CSS, and JavaScript.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
